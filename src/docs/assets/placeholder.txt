@@ -1,0 +1,2 @@
+# Assets folder
+File ini berfungsi sebagai placeholder agar folder assets tidak kosong.
